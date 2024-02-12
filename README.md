@@ -1,10 +1,10 @@
-# Spotify - Página principal🎧
+# Spotify - Página principal🎧📻
 
 #### Projeto clonando a página inicial do Spotify.
 
 <img src="gif-pag.gif" alt="gif do site">
 
-## Tecnologias usadas
+## 🧠Tecnologias usadas
 - HTML
 - CSS
 
